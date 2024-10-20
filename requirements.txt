@@ -1,0 +1,24 @@
+# Core Python libraries
+numpy
+pickle-mixin
+
+# PyTorch libraries
+torch
+torchvision
+torch-utils  # Handles DataLoader and other utilities for PyTorch
+
+# Visualization libraries
+tqdm
+matplotlib
+
+# Computer vision libraries
+opencv-python  # Required for using cv2
+
+# Library for sorting file names
+natsort  # Used for natsorted
+
+# Metric learning library for PyTorch
+pytorch-metric-learning
+
+# Image quality assessment
+lpips  # Learned Perceptual Image Patch Similarity (used for image quality measurement)
